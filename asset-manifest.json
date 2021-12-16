@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tt-stopwatch-rx/static/css/main.85944367.css",
-    "main.js": "/tt-stopwatch-rx/static/js/main.17a3280a.js",
+    "main.css": "/tt-stopwatch-rx/static/css/main.e30e2baf.css",
+    "main.js": "/tt-stopwatch-rx/static/js/main.e4535edb.js",
     "index.html": "/tt-stopwatch-rx/index.html",
-    "main.85944367.css.map": "/tt-stopwatch-rx/static/css/main.85944367.css.map",
-    "main.17a3280a.js.map": "/tt-stopwatch-rx/static/js/main.17a3280a.js.map"
+    "main.e30e2baf.css.map": "/tt-stopwatch-rx/static/css/main.e30e2baf.css.map",
+    "main.e4535edb.js.map": "/tt-stopwatch-rx/static/js/main.e4535edb.js.map"
   },
   "entrypoints": [
-    "static/css/main.85944367.css",
-    "static/js/main.17a3280a.js"
+    "static/css/main.e30e2baf.css",
+    "static/js/main.e4535edb.js"
   ]
 }
