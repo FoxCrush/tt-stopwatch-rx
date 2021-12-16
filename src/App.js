@@ -1,7 +1,15 @@
+import { Component } from "react";
 import "./App.css";
+import TimerContainer from "./components/timer";
 
-function App() {
-  return <div className="App">hello</div>;
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <TimerContainer />
+      </div>
+    );
+  }
 }
 
 export default App;

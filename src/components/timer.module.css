@@ -1,0 +1,16 @@
+.container {
+  width: 50%;
+  padding: 1vw;
+  margin: 5vw;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.494);
+  background-color: rgba(255, 235, 205, 0.789);
+}
+/* .buttonsList {
+  display: block;
+  background-color: blanchedalmond;
+} */
+.buttonListItem {
+  margin-right: 2vw;
+}
