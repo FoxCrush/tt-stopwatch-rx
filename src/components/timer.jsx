@@ -58,7 +58,7 @@ function TimerContainer() {
 
   return (
     <div className={styles.container}>
-      <span>{time}</span>
+      <span className={styles.timerNumbers}>{time}</span>
       <ul>
         <li>
           <button
@@ -93,6 +93,7 @@ function TimerContainer() {
           </button>
         </li>
       </ul>
+      *Wait works only on doubleclick with less then 300ms delay
     </div>
   );
 }

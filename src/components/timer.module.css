@@ -12,5 +12,10 @@
   background-color: blanchedalmond;
 } */
 .buttonListItem {
+  height: 5vh;
   margin-right: 2vw;
+}
+.timerNumbers {
+  color: black;
+  font-size: xx-large;
 }
